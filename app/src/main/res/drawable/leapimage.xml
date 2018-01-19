@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/leap1"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap2"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap3"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap4"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap5"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap6"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap7"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap8"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap9"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap10"
+
+        android:duration="100"/>
+
+    <item android:drawable="@drawable/leap11"
+
+        android:duration="100"/>
+
+
+</animation-list>
